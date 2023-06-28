@@ -482,6 +482,9 @@ background-color: #22493C;
     .projects_container{
         grid-template-columns: repeat(2, 450px);
     }
+    .contact_container{
+        padding-block: 3rem 5rem;
+    }
 
 }
 
@@ -537,7 +540,7 @@ background-color: #22493C;
         .contact_container{
             grid-template-columns: 700px;
             grid-template-columns: repeat(3, 1fr);
-            padding-block: 2rem 3rem;
+            padding-block: 4.5rem 8.5rem;
             
         }
         .footer_container{
