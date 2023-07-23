@@ -241,9 +241,10 @@ background-color: #22493C;
 }
 .skills_content{
     justify-content: center;
-    column-gap: 4.5rem;
+    column-gap: 2.5rem;
     grid-template-columns: repeat(2, max-content);
     align-items: baseline;
+    margin-left: 2rem;
 }
 
 .skills_content,
