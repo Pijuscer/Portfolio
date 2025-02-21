@@ -1,5 +1,5 @@
 # Portfolio
-Portfolio was created using HTML, CSS, and JavaScript.
+Portfolio sukurtas naudojant HTML, CSS, JavaScript kalbas. 
 
-Link to portfolio:
+Nuoroda į portfolio:
 https://pijusit-portfolio.netlify.app/
